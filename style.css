@@ -1,0 +1,15 @@
+:root {
+    --cor-de-fundo: #EBECEE;
+    }
+
+    body {
+        background-color: var(--cor-de-fundo);
+        }
+
+        width: 24px;
+        height: 24px;
+        background-image: url(“../img/Menu.svg”);
+        display: inline-block;
+        }
+            background-color: white;
+            }
